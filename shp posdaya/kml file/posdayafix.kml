@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="posdayafix" id="posdayafix">
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="POSDAYA" type="string"></SimpleField>
+	<SimpleField name="Desa" type="string"></SimpleField>
+	<SimpleField name="Kecamatan" type="string"></SimpleField>
+</Schema>
+<Folder><name>posdayafix</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#posdayafix">
+		<SimpleData name="Latitude">-6.720357</SimpleData>
+		<SimpleData name="Longitude">106.795646</SimpleData>
+		<SimpleData name="POSDAYA">Posdaya Cikopi</SimpleData>
+		<SimpleData name="Desa">CIBURAYUT</SimpleData>
+		<SimpleData name="Kecamatan">Cigombong</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>106.795646,-6.720357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#posdayafix">
+		<SimpleData name="Latitude">-6.728381</SimpleData>
+		<SimpleData name="Longitude">106.787853</SimpleData>
+		<SimpleData name="POSDAYA">Posdaya Cahaya Hati</SimpleData>
+		<SimpleData name="Desa">PASIR JAYA</SimpleData>
+		<SimpleData name="Kecamatan">Cigombong</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>106.787853,-6.728381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#posdayafix">
+		<SimpleData name="Latitude">-6.728383</SimpleData>
+		<SimpleData name="Longitude">106.787907</SimpleData>
+		<SimpleData name="POSDAYA">Posdaya Raweuy</SimpleData>
+		<SimpleData name="Desa">CIADEG</SimpleData>
+		<SimpleData name="Kecamatan">Cigombong</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>106.787907,-6.728383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#posdayafix">
+		<SimpleData name="Latitude">-6.733629</SimpleData>
+		<SimpleData name="Longitude">106.790245</SimpleData>
+		<SimpleData name="POSDAYA">Posdaya Cisalada</SimpleData>
+		<SimpleData name="Desa">CISALADA</SimpleData>
+		<SimpleData name="Kecamatan">Cigombong</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>106.790245,-6.733629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#posdayafix">
+		<SimpleData name="Latitude">-6.746058</SimpleData>
+		<SimpleData name="Longitude">106.780958</SimpleData>
+		<SimpleData name="POSDAYA">Posdaya Tugu Jaya</SimpleData>
+		<SimpleData name="Desa">TUGUJAYA</SimpleData>
+		<SimpleData name="Kecamatan">Cigombong</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>106.780958,-6.746058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#posdayafix">
+		<SimpleData name="Latitude">-6.744199</SimpleData>
+		<SimpleData name="Longitude">106.803552</SimpleData>
+		<SimpleData name="POSDAYA">Posdaya Cigombong</SimpleData>
+		<SimpleData name="Desa">CIGOMBONG</SimpleData>
+		<SimpleData name="Kecamatan">Cigombong</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>106.803552,-6.744199</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#posdayafix">
+		<SimpleData name="Latitude">-6.747670</SimpleData>
+		<SimpleData name="Longitude">106.804110</SimpleData>
+		<SimpleData name="POSDAYA">Posdaya Wates Jaya</SimpleData>
+		<SimpleData name="Desa">WATES JAYA</SimpleData>
+		<SimpleData name="Kecamatan">Cigombong</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>106.80411,-6.74767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#posdayafix">
+		<SimpleData name="Latitude">-6.747729</SimpleData>
+		<SimpleData name="Longitude">106.804068</SimpleData>
+		<SimpleData name="POSDAYA">Posdaya Ciburuy</SimpleData>
+		<SimpleData name="Desa">CIBURUY</SimpleData>
+		<SimpleData name="Kecamatan">Cigombong</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>106.804068,-6.747729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#posdayafix">
+		<SimpleData name="Latitude">-6.746955</SimpleData>
+		<SimpleData name="Longitude">106.818953</SimpleData>
+		<SimpleData name="POSDAYA">Posdaya Srogol</SimpleData>
+		<SimpleData name="Desa">SROGOI</SimpleData>
+		<SimpleData name="Kecamatan">Cigombong</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>106.818953,-6.746955</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
